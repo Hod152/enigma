@@ -7,7 +7,7 @@ Thanks to Alan Turing the Western Allies were able to decrypt many intercepted m
 ## TODO:
 
  - Add comments
- - Write explentaion and example
+ - Write explanation and example
  - Add JSON to represent the rotors.
  
  
